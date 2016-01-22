@@ -3,6 +3,7 @@
 Used node 5.0.0
 
 npm install 
+
 node --harmony_destructuring index.js
 
 ```javascript
